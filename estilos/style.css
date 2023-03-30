@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+  background-color: #e9edc9;
+ 
+}
+.container{
+  margin: 10%;
+
+}
+#figure-pessoa{
+  position: center;
+  
+}
+h1{
+   text-align: center; 
+   color: rgb(0, 0, 255);
+  }
+
+.subtitulo-1{
+  color: #8bc4f6 ;
+}
+
+.o-que-um-web-design{
+ 
+display: flex;
+align-items: center;
+
+}
+
+
+ul
+{
+  color:blueviolet;
+}
+
+p{
+  text-align: justify;
+  text-indent: 50px;
+}
+
+
+
+
+
+
